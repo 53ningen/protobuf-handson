@@ -1,0 +1,7 @@
+{
+  "require": {
+    "stanley-cheung/Protobuf-PHP": "v0.6"
+  },
+  "require-dev": {
+  }
+}
